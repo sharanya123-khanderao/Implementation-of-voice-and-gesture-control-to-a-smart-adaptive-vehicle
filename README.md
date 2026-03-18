@@ -13,4 +13,6 @@ are helpful for those who cannot speak. This vehicle can perform various operati
 backward, left, right, wake-up and shut-down. The existing Bluetooth based controller is upgraded
 by adding voice and gesture control applications. Sequential operations are performed to switch
 from one command to another by adding a switching module.
-![image](https://github.com/sharanya123-khanderao/Implementation-of-voice-and-gesture-control-to-a-smart-adaptive-vehicle/assets/83499909/dacedf27-ea4b-4571-8a28-4fcce755cbf8)
+
+<img width="418" height="509" alt="image" src="https://github.com/user-attachments/assets/dc09785b-9c29-40e6-8221-dd8fe6dbeb86" />
+
